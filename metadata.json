@@ -1,0 +1,6 @@
+{
+  "name": "AI End-to-End Pipeline Guide & Manager",
+  "description": "기획(PRD)부터 AI 에이전트 코딩, 로컬 빌드, CI/CD 배포까지 1인 개발 자동화 파이프라인 가이드 및 프로젝트 관리 도구",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
